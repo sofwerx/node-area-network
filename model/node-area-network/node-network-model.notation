@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_OImtYHocEeiu-YdnXykYLQ" type="PapyrusUMLClassDiagram" name="SysML 1.4 Block Definition Diagram" measurementUnit="Pixel">
+  <styles xmi:type="notation:StringValueStyle" xmi:id="_OImtYXocEeiu-YdnXykYLQ" name="diagram_compatibility_version" stringValue="1.3.0"/>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_OImtYnocEeiu-YdnXykYLQ"/>
+  <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_OImtY3ocEeiu-YdnXykYLQ" diagramKindId="org.eclipse.papyrus.sysml14.diagram.blockdefinition">
+    <owner xmi:type="uml:Model" href="node-network-model.uml#_N7ooYHocEeiu-YdnXykYLQ"/>
+  </styles>
+  <element xmi:type="uml:Model" href="node-network-model.uml#_N7ooYHocEeiu-YdnXykYLQ"/>
+</notation:Diagram>
