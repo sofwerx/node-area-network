@@ -16,4 +16,7 @@
   <semanticResources>node-network-model.notation</semanticResources>
   <semanticResources>node-network-model.uml</semanticResources>
   <semanticResources>http://www.eclipse.org/uml2/5.0.0/Types</semanticResources>
+  <semanticResources>model.profile.notation</semanticResources>
+  <semanticResources>model.profile.di</semanticResources>
+  <semanticResources>model.profile.uml</semanticResources>
 </viewpoint:DAnalysis>
